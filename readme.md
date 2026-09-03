@@ -1,1 +1,0 @@
-Repository for the exam of high performance computing
